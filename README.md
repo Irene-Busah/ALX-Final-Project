@@ -1,7 +1,9 @@
 Authors:
-       1. Topister Onyango(FrontEnd Developer)\n
+       
+       1. Topister Onyango(FrontEnd Developer)
        
        2. Irene Busah(Backend Developer)
+       
 
 # ALX FINAL PROJECT
 
